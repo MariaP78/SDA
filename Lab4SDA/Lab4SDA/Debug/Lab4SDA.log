@@ -1,0 +1,11 @@
+﻿  App.cpp
+  Problema14.cpp
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Lab4SDA\Problema14.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+  ShortTests.cpp
+  TestProblema14.cpp
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Lab4SDA\TestProblema14.cpp(37,21): warning C4101: 'ex': unreferenced local variable
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Lab4SDA\TestProblema14.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Lab4SDA\TestProblema14.cpp(76,20): warning C4101: 'e': unreferenced local variable
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Lab4SDA\TestProblema14.cpp(93,21): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Lab4SDA.vcxproj -> C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\Lab4SDA\Debug\Lab4SDA.exe

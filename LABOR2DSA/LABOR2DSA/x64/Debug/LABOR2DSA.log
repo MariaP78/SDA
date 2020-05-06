@@ -1,0 +1,8 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+  Iterator.cpp
+  Matrix.cpp
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\LABOR2DSA\LABOR2DSA\Matrix.cpp(49,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  ShortTest.cpp
+  Generating Code...
+  LABOR2DSA.vcxproj -> C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\LABOR2DSA\x64\Debug\LABOR2DSA.exe

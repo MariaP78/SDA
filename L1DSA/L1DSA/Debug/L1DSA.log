@@ -1,0 +1,11 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\L1DSA\L1DSA\ExtendedTest.cpp(165,20): warning C4101: 'e': unreferenced local variable
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\L1DSA\L1DSA\ExtendedTest.cpp(172,20): warning C4101: 'ex': unreferenced local variable
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\L1DSA\L1DSA\ExtendedTest.cpp(226,20): warning C4101: 'ex': unreferenced local variable
+C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\L1DSA\L1DSA\ExtendedTest.cpp(233,20): warning C4101: 'ex': unreferenced local variable
+  Set.cpp
+  SetIterator.cpp
+  ShortTest.cpp
+  Generating Code...
+  L1DSA.vcxproj -> C:\Mary s Stuff\Facultate IG\SEMESTER 2\DATENSTRUKTUREN UND ALGORITHMEN\LABORS\L1DSA\Debug\L1DSA.exe
